@@ -2,7 +2,7 @@
 
 040 k-means
 
-Use your own function to implement k-means, the official function:
+Use my own function to implement k-means, the official function:
 
 ```
 from sklearn.cluster import KMeans
